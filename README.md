@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VladKoroliuk
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MEVN stack
 - 📫 My email: <koroliuk.work@gmail.com>
 
 <!---
